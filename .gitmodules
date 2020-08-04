@@ -1,0 +1,3 @@
+[submodule "HackernewsClone_Server"]
+	path = HackernewsClone_Server
+	url = https://github.com/jgirelma/HackernewsClone_Server.git

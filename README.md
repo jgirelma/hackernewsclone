@@ -1,7 +1,7 @@
 # hackernewsclone
 A simple hackernews clone using using node and react
 
-demo: https://hackernewsclone.club
+demo: https://www.messageboardclone.xyz/
 
 
 ## Backend
